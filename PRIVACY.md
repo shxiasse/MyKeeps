@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Privacy Policy for MyKeeps
 
 **Last Updated: February 6, 2026**
