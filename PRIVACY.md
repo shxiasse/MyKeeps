@@ -13,7 +13,7 @@ title: Privacy Policy
 ## 🇬🇧 English
 
 ### In Short
-**MyKeeps does not collect, store, or share any of your personal data. Your data is stored locally on your device, and optionally synced across your devices via iCloud.**
+**MyKeeps does not collect, store, or share any of your personal data. Your data is stored locally on your device.**
 
 ### Data Collection
 MyKeeps is designed with your privacy in mind. We do not collect any personal information or user data. Specifically:
@@ -24,7 +24,7 @@ MyKeeps is designed with your privacy in mind. We do not collect any personal in
 - No tracking or advertising identifiers are used
 
 ### Data Storage
-All data you create in MyKeeps (themes, entries, photos, and media) is stored on your local device. If you enable iCloud sync, your data is also synced across your devices through Apple's iCloud service using CloudKit. This data is stored in your personal iCloud account and is not accessible to us. We do not operate any servers and have no access to your iCloud data.
+All data you create in MyKeeps (themes, entries, photos, and media) is stored on your local device. We do not operate any servers and have no access to your data.
 
 ### In-App Purchases
 MyKeeps offers in-app purchases through Apple's App Store. All payment processing is handled by Apple, and we do not have access to your payment information.
